@@ -1,0 +1,17 @@
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\OkooraAssignment.exe
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\OkooraAssignment.deps.json
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\OkooraAssignment.runtimeconfig.json
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\OkooraAssignment.dll
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\OkooraAssignment.pdb
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.csproj.AssemblyReference.cache
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.AssemblyInfoInputs.cache
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.AssemblyInfo.cs
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.dll
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\refint\OkooraAssignment.dll
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.pdb
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.genruntimeconfig.cache
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\ref\OkooraAssignment.dll
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\DvirChacham\Music\OkooraAssignment\OkooraAssignment\obj\Debug\net6.0\OkooraAssignment.csproj.CopyComplete

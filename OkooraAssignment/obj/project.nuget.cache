@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ntuD3wC4fU5j9bm7pa1sq0YKFyJDMPGjs3J4eQAoDlaOAQPCgQG0AZgDsYiI4MuKOSEA7uJkoiZLj4w2pj1umQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DvirChacham\\Music\\OkooraAssignment\\OkooraAssignment\\OkooraAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DvirChacham\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
