@@ -14,12 +14,17 @@ namespace OkooraAssignment.Classes
 
         public void PrintCoins()
         {
+            Console.WriteLine("_____________________________________________________________\n" +
+                "Final Output:" +
+                "\n" +
+                "_____________________________________________________________");
             // Print all the coin pair data from the coinPairsData dictionary
             foreach (var coinPair in _coinPairsData)
             {
                 Console.WriteLine($"Coin Pair: {coinPair.Value.CoinPairName}");
                 Console.WriteLine($"Conversion Rate: {coinPair.Value.ConversionRate}");
                 Console.WriteLine($"Update Date: {coinPair.Value.UpdateDate}\n");
+                Console.WriteLine("_____________________________________________________________");
             }
         }
     }
