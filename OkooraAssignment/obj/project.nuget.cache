@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "voEsbTbfIYAygAYiGJL9Oyl4ZBLAVQuiFeVJeDK5S1GWqw8ahDWH/HKAG3G9MqAcmDRlM4IiuSYz3O3rhqNkLQ==",
+  "dgSpecHash": "V4A7kHDfWb7wo8pfQP4+FotTjiwE9ZLPozMUcufrV3mX+a55QVe9iaS2L0ldPYe8d5C28Z514iMbBcwnXTKC1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DvirChacham\\Music\\OkooraAssignment\\OkooraAssignment\\OkooraAssignment.csproj",
+  "projectFilePath": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\CoinPairsConversionRates.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DvirChacham\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
-    "C:\\Users\\DvirChacham\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\DvirChacham\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
-    "C:\\Users\\DvirChacham\\.nuget\\packages\\selenium.webdriver.chromedriver\\109.0.5414.7400\\selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512"
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\.nuget\\packages\\selenium.webdriver.chromedriver\\109.0.5414.7400\\selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512"
   ],
   "logs": []
 }

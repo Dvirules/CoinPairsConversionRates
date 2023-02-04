@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\OkooraAssignment.csproj": {}
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\CoinPairsConversionRates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\OkooraAssignment.csproj": {
+    "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\CoinPairsConversionRates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\OkooraAssignment.csproj",
-        "projectName": "OkooraAssignment",
-        "projectPath": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\OkooraAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\CoinPairsConversionRates.csproj",
+        "projectName": "CoinPairsConversionRates",
+        "projectPath": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\CoinPairsConversionRates.csproj",
         "packagesPath": "C:\\Users\\Games.DESKTOP-PH52O9O\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Games.DESKTOP-PH52O9O\\Desktop\\New folder\\CoinPairsConversionRates\\OkooraAssignment\\obj\\",
         "projectStyle": "PackageReference",
